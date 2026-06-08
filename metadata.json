@@ -1,0 +1,6 @@
+{
+  "name": "Bảo Tàng Lịch Sử Việt Nam AI",
+  "description": "Nền tảng giáo dục học tập lịch sử Việt Nam qua trò chuyện trí tuệ nhân tạo với danh nhân, dòng thời gian tương tác và phân tích hiện vật hình ảnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
