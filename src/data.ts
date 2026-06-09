@@ -76,7 +76,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Khởi đầu kỷ nguyên tự chủ dài lâu',
     description: 'Ngô Quyền dùng trận địa cọc gỗ bịt sắt dưới lòng sông Bạch Đằng, tiêu diệt toàn bộ thủy quân xâm lược Nam Hán, bắt sống Hoằng Thao.',
     significance: 'Chấm dứt hoàn toàn hơn một nghìn năm Bắc thuộc và đô hộ tàn canh, mở ra kỷ nguyên độc lập, tự chủ và kiến thiết quốc gia lâu dài của dân tộc Việt Nam.',
-    images: 'https://images.unsplash.com/photo-1599508704512-2f19efd1e35f?w=800&auto=format&fit=crop&q=60',
+    images: 'https://thanhphohaiphong.gov.vn/wp-content/uploads/2020/12/20201230_5fec055cd49ff.png',
     references: ['Đại Việt Sử ký Toàn thư', 'Sách giáo khoa Lịch sử lớp 10', 'Bảo tàng Lịch sử Quốc gia']
   },
   {
