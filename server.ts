@@ -94,7 +94,7 @@ Hãy phân loại chính xác các thông tin trong câu trả lời trên thàn
 Hãy viết kết luận ngắn gọn, khoa học và công tâm cho từng phần bằng tiếng Việt.`;
 
     const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
+      model: "gemini-2.5-flash",
       contents: prompt,
       config: {
         responseMimeType: "application/json",
