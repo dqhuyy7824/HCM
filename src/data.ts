@@ -76,7 +76,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Khởi đầu kỷ nguyên tự chủ dài lâu',
     description: 'Ngô Quyền dùng trận địa cọc gỗ bịt sắt dưới lòng sông Bạch Đằng, tiêu diệt toàn bộ thủy quân xâm lược Nam Hán, bắt sống Hoằng Thao.',
     significance: 'Chấm dứt hoàn toàn hơn một nghìn năm Bắc thuộc và đô hộ tàn canh, mở ra kỷ nguyên độc lập, tự chủ và kiến thiết quốc gia lâu dài của dân tộc Việt Nam.',
-    images: 'https://images.unsplash.com/photo-1599508704512-2f19efd1e35f?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/0/0f/Bach_Dang_Giang_monument.jpg',
     references: ['Đại Việt Sử ký Toàn thư', 'Sách giáo khoa Lịch sử lớp 10', 'Bảo tàng Lịch sử Quốc gia']
   },
   {
@@ -85,7 +85,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Nhà Lý (Vương triều Lý khởi lập)',
     description: 'Vua Lý Công Uẩn viết Chiếu dời đô (Thiên đô chiếu), dời đại bản doanh thủ phủ Đại Cồ Việt từ vùng núi chật hẹp Hoa Lư về vùng đồng bằng sông Hồng rộng mở tại Thăng Long (Hà Nội ngày nay).',
     significance: 'Khẳng định tầm nhìn kinh tế, văn hóa và vị thế vững mạnh của một quốc gia độc lập thống nhất. Thăng Long đóng vai trò là mạch máu của bờ cõi Việt qua nghìn năm văn hiến.',
-    images: 'https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/e/e5/Statue_of_Ly_Thai_To_Hanoi.jpg',
     references: ['Thiên đô chiếu (Vua Lý Công Uẩn)', 'Đại Việt Sử ký Toàn thư', 'Di tích Hoàng thành Thăng Long']
   },
   {
@@ -94,7 +94,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Nhà Trần vinh hiển',
     description: 'Hưng Đạo Đại Vương Trần Quốc Tuấn tái lặp kế sách thủy chiến sông Bạch Đằng của Ngô Quyền, phục kích tiêu diệt toàn bộ chiến thuyền rút lui của đại tướng Ô Mã Nhi thuộc đế chế Thủy Nguyên.',
     significance: 'Đập tan tham vọng bành trướng xuống Đông Nam Á của vương triều Nguyên Mông sừng sững lúc bấy giờ, ghi dấu trang sử vàng chói lọi nhất về binh pháp lấy ít thắng nhiều, thắt chặt khối đại đoàn kết toàn dân.',
-    images: 'https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/5/5a/Bach_Dang_Giang_historical_site.jpg',
     references: ['Binh Thư Yếu Lược', 'Đại Việt Sử ký Toàn thư', 'Di tích lưu niệm Chiến dịch Bạch Đằng Đông Triều']
   },
   {
@@ -103,7 +103,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Nhà Hậu Lê (Khai quốc thịnh trị)',
     description: 'Bình Định Vương Lê Lợi đồng cam cộng khổ cùng quân sĩ quét sạch giặc Minh sau 10 năm gian khổ ở núi rừng Lam Sơn. Nguyễn Trãi chấp bút viết Bình Ngô Đại Cáo công bố thái hòa.',
     significance: 'Khôi phục hoàn toàn bờ cõi Đại Việt, khẳng định chủ quyền biên giới quốc gia vững chắc, mở ra kỷ nguyên phát triển rực rỡ nhất về văn hóa, pháp lý và điền địa triều Lê Sơ.',
-    images: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/2/2b/Lam_Kinh_main_gate.jpg',
     references: ['Bình Ngô Đại Cáo (Nguyễn Trãi)', 'Lam Sơn Thực lục', 'Di tích lịch sử Quốc gia đặc biệt Lam Kinh']
   },
   {
@@ -112,7 +112,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Phong trào Tây Sơn quật khởi',
     description: 'Hoàng đế Quang Trung Nguyễn Huệ chỉ huy cuộc hành quân thần tốc vô tiền khoáng hậu từ Phú Xuân ra Bắc, áp sát bất ngờ giáp chiến trong dịp tết Kỷ Dậu tiêu diệt hơn 29 vạn quân sỹ mãn Thanh do Tôn Sĩ Nghị lãnh đạo.',
     significance: 'Cứu nguy dân tộc trước ách nô dời xâm lược ngoại bang cuối triều Lê. Thể hiện cốt cách thiên tài quân sự Việt Nam trong hành động và khát vọng thống nhất tổ quốc.',
-    images: 'https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/8/83/Go_Dong_Da_Hanoi.jpg',
     references: ['Hoàng Lê nhất thống chí', 'Bảo tàng Quang Trung Bình Định', 'Di tích Gò Đống Đa Hà Nội']
   },
   {
@@ -121,7 +121,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Thời đại Hồ Chí Minh rực rỡ',
     description: 'Toàn quốc đồng lòng tiến hành tổng khởi nghĩa cướp chính quyền. Chiều ngày 2/9, tại Quảng trường Ba Đình lịch sử, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa.',
     significance: 'Phá tan gông xiềng thuộc địa của thực dân Pháp kéo dài hơn 80 năm và lật đổ vương triều phong phong kiến lâu đời. Đưa nhân dân từ kiếp nô lệ vươn vai làm chủ vận mệnh.',
-    images: 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/0/09/Ho_Chi_Minh_reading_Declaration_of_Independence.jpg',
     references: ['Tuyên ngôn Độc lập 1945', 'Bản tin Cách mạng giải phóng dân tộc Quốc gia', 'Lịch sử Đảng Cộng sản Việt Nam']
   },
   {
@@ -130,7 +130,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Kháng chiến chống thực dân Pháp tái sinh',
     description: 'Sau 56 ngày đêm ròng rã khoét núi ngủ hầm mưa dầm cơm vắt, chiến sĩ Điện Biên dưới sự Tổng tư lệnh của Đại tướng Võ Nguyên Giáp tiêu diệt hoàn toàn cứ điểm bất khả xâm phạm của thực dân Pháp.',
     significance: 'Đập tan hoàn toàn ý chí duy trì thuộc địa của Pháp tại Đông Dương, buộc cựu cường ký Hiệp định Giơ-ne-vơ lập lại hòa bình miền Bắc, cổ vũ kiên cường phong trào gpdt khắp châu Á, Phi, Mỹ-Latin.',
-    images: 'https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/d/d8/Dien_Bien_Phu_Museum.jpg',
     references: ['Điện Biên Phủ - Điểm hẹn lịch sử', 'Sách giáo khoa Lịch sử lớp 12', 'Chiến trường Điện Biên Phủ di tích lịch sử']
   },
   {
@@ -139,7 +139,7 @@ export const TIMELINE_EVENTS: TimelineEvent[] = [
     period: 'Kỷ nguyên Độc lập - Thống nhất Tổ quốc',
     description: 'Chiến dịch Hồ Chí Minh toàn thắng thần tốc táo bạo, mũi tăng lữ vượt cửa dinh Độc Lập lúc 11h30 ngày 30 tháng 4, chính thức cắm cờ giải phóng thống nhất giang sơn.',
     significance: 'Kết thúc vinh quang 30 năm kháng chiến chống đế quốc đầy hy sinh thử thách cường độ lớn của nhân dân Việt Nam. Thu giang sơn trọn vẹn độc lập toàn bờ cõi.',
-    images: 'https://images.unsplash.com/photo-1533900298318-6b8da08a523e?w=800&auto=format&fit=crop&q=60',
+    images: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Tank_390_Independence_Palace.jpg',
     references: ['Tổng hành dinh trong mùa xuân đại thắng', 'Bảo tàng Chứng tích Chiến tranh', 'Dinh Độc Lập di tích quốc gia đặc biệt']
   }
 ];
